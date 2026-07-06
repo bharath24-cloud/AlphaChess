@@ -107,7 +107,7 @@ AlphaChess/
 
 Clone the repository:
 
-git clone https://github.com/badboy-cloud/AlphaChess.git
+git clone https://github.com/bharath24-cloud/AlphaChess.git
 
 cd AlphaChess
 
