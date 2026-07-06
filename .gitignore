@@ -1,0 +1,19 @@
+# Python
+venv/
+pycache/
+*.pyc
+
+# Models
+saved_models/
+*.pth
+*.pt
+
+# Stockfish
+stockfish/
+
+# Data
+data/*.pgn
+data/*.zst
+
+# Logs
+logs/

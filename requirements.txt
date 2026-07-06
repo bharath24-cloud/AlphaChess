@@ -1,0 +1,26 @@
+# Core AI
+torch
+torchvision
+torchaudio
+
+# Chess
+python-chess
+
+# Numerical
+numpy
+
+# Progress Bars
+tqdm
+
+# GUI
+pygame
+
+# PGN Compression (.zst)
+zstandard
+
+# Image Support
+pillow
+
+# Optional Utilities
+matplotlib
+pandas
