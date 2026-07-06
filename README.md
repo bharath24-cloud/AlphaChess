@@ -40,13 +40,7 @@ The project supports multiple training pipelines and provides both a graphical u
 
 🎮 GUI
 
-«Add your AlphaChess GUI screenshot here.»
-
-🏋️ Training
-
-«Add a screenshot of your training process here.»
-
----
+«![AlphaChess GUI](images/gui.png)»
 
 🏗️ Architecture
 
