@@ -40,7 +40,8 @@ The project supports multiple training pipelines and provides both a graphical u
 
 🎮 GUI
 
-«![AlphaChess GUI](images/gui.png)»
+![AlphaChess GUI](images/gui.png)
+
 
 🏗️ Architecture
 
