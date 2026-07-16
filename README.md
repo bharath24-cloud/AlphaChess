@@ -2,11 +2,11 @@
 
 «An AlphaZero-inspired Chess Engine powered by PyTorch, Monte Carlo Tree Search (MCTS), Stockfish Distillation, and Self-Play Reinforcement Learning.»
 
-"Python" (https://img.shields.io/badge/Python-3.11-blue)
-"PyTorch" (https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
-"Platform" (https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
-"Status" (https://img.shields.io/badge/Status-Active-success)
-"License" (https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
